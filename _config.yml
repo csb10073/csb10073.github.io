@@ -1,34 +1,25 @@
 # --- Basic options --- #
 
 # [수정필요] 웹페이지 이름
-title: PhD. Seokho Son
-
+title: 재밌는 4반
 # [수정필요] 간단한 사이트 설명
-description: Acedemic Website of Seokho Son
+description: Funny Website of 4class
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: Seokho Son
+author: Subin
 
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어 ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
 navbar-links:
-  Career: "career"
-  Publication: "publication"
-  Blog: "blog"
-  Project: "project"
-  GitHub: "https://github.com/seokho-son"
-  Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
-
+  March: "March"
+  April: "April"
+  June: "July"
+  AgUST: "Agust"
 
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
-avatar: "/assets/img/seokho-square-2.jpg"
+avatar: "/12/img/subin.jpg"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
 round-avatar: true
-
-# title text 대신 이미지 사용하고 싶은 경우 설정
-# then specify the following parameter
-#title-img: "/assets/img/seokho-square.jpg"
-
 
 # --- Footer options --- #
 # [수정필요] 웹페이지 하단에 나올 정보를 수정 (다른 사이트 및 커뮤니티에 대한 링크 정보임. 필요 없는 경우 주석 처리)
@@ -36,10 +27,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "shsonkorea@etri.re.kr"
-  facebook: seokho.son.korea
-  github: seokho-son
-  linkedin: seokho-son
+  email: "csb10073@naver.com"
+  facebook: .
+  linkedin: .
 #  twitter: daattali
 #  rss: true
 #  reddit: yourname
