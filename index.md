@@ -7,11 +7,11 @@ cover-img: /assets/img/itu-seokho-m4.jpg
 
 <br/>
 
-## About me
+## 하고싶은 말
 
 **너무 힘들었다 애들아.** 
 
-## Contact
+#Contact
 
 ```
 Affiliation: Cloud Computing SW Research Section, Future Computing Research Division, Artificial Intelligence Research Laboratory, Electronics and Telecommunications Research Institute (ETRI)
