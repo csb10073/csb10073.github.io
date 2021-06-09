@@ -15,7 +15,9 @@ navbar-links:
   April: "April"
   June: "June"
   July: "July"
-
+ Project: "project"
+   GitHub: "https://github.com/seokho-son"
+   Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
 # [수정필요] 아바타 로고 사용 시에는 이미지 파일을 지정 (이미지 파일 업로드 후, 위치 지정)
 avatar: "/assets/img/12.jpg"
 # 원형 아바타 이미지 여부 `true` 또는 `false`
